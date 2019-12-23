@@ -1,4 +1,4 @@
 # Space-Shooter
 Simple Space shooter in C++, using SDL-1.2.15.
-There is an already compiled game if you don't want to install SDL.
+You have to install SDL in order for it to work.
 Press enter to restart the game.
